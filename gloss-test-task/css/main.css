@@ -1,0 +1,247 @@
+.main-container {
+    margin: 110px 0 0 0;
+}
+
+.title-main {
+}
+
+.content-main-block {
+    display: flex;
+    gap: 40px;
+    margin-top: 56px;
+}
+
+.text-main {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    width: 830px;
+    height: 390px;
+}
+
+.content-text-main {
+    font: 400 20px / 1.5 "Proxima Nova", sans-serif;
+    color: #333;
+}
+
+.highlighted-text {
+    font: 700 20px / 1.5 "Proxima Nova", sans-serif;
+    color: #333;
+}
+
+.query-section {
+
+}
+.company-block {
+
+    margin-right: 75px;
+    margin-left: 75px;
+}
+.company-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fffefc linear-gradient(132deg, #ffdf00 0%, #ffb800 100%);
+    opacity: 0.7;
+    margin-top: 100px;
+    padding: 100px 75px 51px 75px;
+}
+
+.glossy-webstudio {
+}
+
+.best-it-company {
+    font: 800 44px / 1.25 "Proxima Nova", sans-serif;
+    color: #333;
+}
+.paragraph-best-company {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 64px;
+}
+
+.block-logo-companies {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 50px;
+    margin-top: 34px;
+
+}
+
+.answer-content {
+}
+
+.type-one {
+    display: flex;
+}
+
+.content-block-iconText {
+    display: flex;
+}
+
+.icon-svg {
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(132deg, #ffdf00 0%, #ffb800 100%);
+    border-radius: 50% 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.type-one .text-icon h3{
+
+}
+
+.text-icon h3 {
+    font: 700 20px / 1.25 "Proxima Nova", sans-serif;
+
+    color: #333;
+}
+.text-icon p {
+    font: 400 16px / 1.25 "Proxima Nova", sans-serif;
+    width: 505px;
+    color: #333;
+}
+
+.type-two {
+}
+
+.type-three {
+}
+
+.type-four {
+}
+
+.type-five {
+}
+
+.gallery {
+}
+
+.gallery-list {
+}
+
+.photo-item {
+}
+
+.photo-one {
+}
+
+.photo-two {
+}
+
+.photo-three {
+}
+
+.photo-four {
+}
+
+.drupal-container {
+}
+
+.title-drupal {
+}
+
+.deposit-cards {
+}
+
+.cards-list {
+}
+
+.cards-item {
+}
+
+.block-content-card-one {
+}
+
+.block-content-card-two {
+}
+
+.block-content-card-three {
+}
+
+.gallery-firm {
+}
+
+.gallery-firm-list {
+}
+
+.gallery-item {
+}
+
+.toyota-item {
+}
+
+.bravo-item {
+}
+
+.pharmacy {
+}
+
+.gemix {
+}
+
+.csd {
+}
+
+.momentum {
+}
+
+.benevolence-container {
+}
+
+.benevolence-text {
+}
+
+.images-benevolence-content {
+}
+
+.benevolence-block-cards {
+}
+
+.benevolence-cards-list {
+}
+
+.benevolence-card-item {
+}
+
+.union-card {
+}
+
+.union {
+}
+
+.unbreakable-card {
+}
+
+.unbreakable {
+}
+
+.computer-room-card {
+}
+
+.computer-room {
+}
+
+.pet-card {
+}
+
+.pet {
+}
+
+.cleaning-card {
+}
+
+.cleaning {
+}
+
+.additional-project-card {
+}
+
+.additional-project {
+}

@@ -1,0 +1,408 @@
+.container-header {
+    margin: 0;
+    background-image: url("../image/bg-header-image.png");
+}
+.header-container {
+    margin: 0 75px 0 75px;
+}
+
+.page-header-container {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo-gloss {
+    display: flex;
+}
+
+.page-navigation {
+    display: flex;
+}
+
+.nav-list {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.nav-item {
+}
+
+.nav-link {
+    font: 600 20px / 1.25 "Proxima Nova", sans-serif;
+    text-align: center;
+    color: #333;
+}
+.contact-social-header {
+    display: flex;
+    align-items: center;
+}
+.list-socials-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 12px;
+    margin-right: 40px;
+}
+
+.item-social-header {
+}
+
+.list-social-header {
+}
+
+.contact {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.work-schedule {
+    font: 400 16px / 1.25 "Proxima Nova", sans-serif;
+    color: #333;
+}
+.menu-contact {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.contacts-link {
+    font: 700 26px / 1.25 "Proxima Nova", sans-serif;
+    color: #333;
+}
+
+.header-content-main {
+    margin-top: 100px;
+}
+
+.content-block {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    gap: 40px;
+    width: 1063px;
+    height: 383px;
+}
+
+.glav-text {
+    gap: 40px;
+}
+
+.paragraph-1 {
+    font: 700 20px / 1.5 "Proxima Nova", sans-serif;
+    color: #333;
+}
+.title-header-one {
+    font: 900 90px / 1.1 "Proxima Nova", sans-serif;
+    color: #333;
+}
+
+.paragraph-2 {
+    font: 700 20px / 1.5 "Proxima Nova", sans-serif;
+    color: #333;
+}
+
+.button-one {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10px;
+    border: none;
+    cursor: pointer;
+
+    border-radius: 5px;
+    padding: 20px 82px;
+    width: 310px;
+    height: 65px;
+
+    background: linear-gradient(132deg, #ffdf00 0%, #ffb800 100%);
+}
+
+.slider-hover {
+    display: flex;
+    gap: 17px;
+    margin-top: 211px;
+}
+
+.slide-one {
+}
+
+.slide {
+}
+
+.two {
+}
+
+.three {
+}
+
+.four {
+}
+
+.five {
+}
+
+.transition-arrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 10px;
+}
+
+.text-arrow {
+    font: 700 14px / 1.25 "Proxima Nova", sans-serif;
+    color: #333;
+}
+
+.transition {
+}
+
+.arrow {
+}
+
+.main-container {
+}
+
+.title-main {
+}
+
+.content-main-block {
+}
+
+.text-main {
+}
+
+.content-text-main {
+}
+
+.highlighted-text {
+}
+
+.query-section {
+}
+
+.company-info {
+}
+
+.glossy-webstudio {
+}
+
+.best-it-company {
+}
+
+.block-logo-companies {
+}
+
+.answer-content {
+}
+
+.type-one {
+}
+
+.content-block-iconText {
+}
+
+.icon-svg {
+}
+
+.text-icon {
+}
+
+.type-two {
+}
+
+.type-three {
+}
+
+.type-four {
+}
+
+.type-five {
+}
+
+.gallery {
+}
+
+.gallery-list {
+}
+
+.photo-item {
+}
+
+.photo-one {
+}
+
+.photo-two {
+}
+
+.photo-three {
+}
+
+.photo-four {
+}
+
+.drupal-container {
+}
+
+.title-drupal {
+}
+
+.deposit-cards {
+}
+
+.cards-list {
+}
+
+.cards-item {
+}
+
+.block-content-card-one {
+}
+
+.block-content-card-two {
+}
+
+.block-content-card-three {
+}
+
+.gallery-firm {
+}
+
+.gallery-firm-list {
+}
+
+.gallery-item {
+}
+
+.toyota-item {
+}
+
+.bravo-item {
+}
+
+.pharmacy {
+}
+
+.gemix {
+}
+
+.csd {
+}
+
+.momentum {
+}
+
+.benevolence-container {
+}
+
+.benevolence-text {
+}
+
+.images-benevolence-content {
+}
+
+.benevolence-block-cards {
+}
+
+.benevolence-cards-list {
+}
+
+.benevolence-card-item {
+}
+
+.union-card {
+}
+
+.union {
+}
+
+.unbreakable-card {
+}
+
+.unbreakable {
+}
+
+.computer-room-card {
+}
+
+.computer-room {
+}
+
+.pet-card {
+}
+
+.pet {
+}
+
+.cleaning-card {
+}
+
+.cleaning {
+}
+
+.additional-project-card {
+}
+
+.additional-project {
+}
+
+.footer-container {
+}
+
+.gloss-block-one {
+}
+
+.logo-footer {
+}
+
+.content-logo-footer {
+}
+
+.content-block-footer {
+}
+
+.paragraph-footer {
+}
+
+.gloss-block-two {
+}
+
+.block-contact {
+}
+
+.contact-social {
+}
+
+.social-item {
+}
+
+.social-link {
+}
+
+.facebook-link {
+}
+
+.instagram-link {
+}
+
+.google-link {
+}
+
+.twitter-link {
+}
+
+.address-info-block {
+}
+
+.startups-block {
+}
